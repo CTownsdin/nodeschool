@@ -1,0 +1,5 @@
+Documentation on the fs module can be found by pointing your browser here:
+  file:///usr/local/lib/node_modules/learnyounode/node_apidoc/fs.html
+
+Documentation on Buffers can be found by pointing your browser here:
+  file:///usr/local/lib/node_modules/learnyounode/node_apidoc/buffer.html
